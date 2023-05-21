@@ -43,5 +43,5 @@ To use Job-Portal, follow these steps:
 
 The following resources and libraries were used in the development of Job-Portal:
 
-*JSoup:* A Java library for working with real-world HTML.
-Various job websites: Public job websites were utilized for data extraction through web scraping.
+- *JSoup:* A Java library for working with real-world HTML.
+- *Various job websites:* Public job websites were utilized for data extraction through web scraping.
