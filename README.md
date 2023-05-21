@@ -15,14 +15,14 @@ The Job-Portal project utilizes the following technologies:
 ## Features
 
 Efficient Job Search: Users can search for job openings using keywords, enabling them to find relevant opportunities quickly.
-- *Data Extraction:* The application extracts job-related data from various websites, providing comprehensive information about job openings.
-- *Spell Check:* Job Portal includes a spell check feature that helps users correct any potential spelling errors in their search queries.
-- *Sorting Functionality:* Search results can be sorted based on various criteria, allowing users to prioritize their preferences.
-- *Multi-threaded Web Crawler:* A multi-threaded web crawler is implemented to retrieve job data efficiently from websites.
-- *Hash Map Data Structure:* Job-Portal employs Java's hash maps to analyze keyword frequency and offers additional features such as cache management.
-- *HTML-to-Text Parser:* The application includes an HTML-to-text parser, facilitating the processing and analysis of web pages.
-- *Web Page Pre-processing:* Web pages are pre-processed to identify pages containing the search query, enhancing result relevance.
-- *Page Ranking:* Pages are ranked based on their relevance to the user's search query, ensuring the most relevant job openings are displayed.
+- **Data Extraction:** The application extracts job-related data from various websites, providing comprehensive information about job openings.
+- **Spell Check:** Job Portal includes a spell check feature that helps users correct any potential spelling errors in their search queries.
+- **Sorting Functionality:** Search results can be sorted based on various criteria, allowing users to prioritize their preferences.
+- **Multi-threaded Web Crawler:** A multi-threaded web crawler is implemented to retrieve job data efficiently from websites.
+- **Hash Map Data Structure:** Job-Portal employs Java's hash maps to analyze keyword frequency and offers additional features such as cache management.
+- **HTML-to-Text Parser:** The application includes an HTML-to-text parser, facilitating the processing and analysis of web pages.
+- **Web Page Pre-processing:** Web pages are pre-processed to identify pages containing the search query, enhancing result relevance.
+- **Page Ranking:** Pages are ranked based on their relevance to the user's search query, ensuring the most relevant job openings are displayed.
 
 ## Usage
 
